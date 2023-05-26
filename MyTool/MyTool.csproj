@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Selenium.WebDriver" Version="4.5.1" />
+      <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="108.0.5359.7100" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Data\ReviewLink\ENW" />
+      <Folder Include="Data\ReviewLink\PMG" />
+      <Folder Include="Data\ReviewLink\WDU" />
+      <Folder Include="Data\SubmitLink\PMG" />
+      <Folder Include="Data\SubmitLink\WDU" />
+    </ItemGroup>
+
+</Project>

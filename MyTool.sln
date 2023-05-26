@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTool", "MyTool\MyTool.csproj", "{05E5D049-A50B-4209-A08B-5B6EFACA20B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tool", "Tool\Tool.csproj", "{E5B57B5E-957E-49F4-A9F5-59A160DBD7E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E5D049-A50B-4209-A08B-5B6EFACA20B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E5D049-A50B-4209-A08B-5B6EFACA20B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E5D049-A50B-4209-A08B-5B6EFACA20B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E5D049-A50B-4209-A08B-5B6EFACA20B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B57B5E-957E-49F4-A9F5-59A160DBD7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B57B5E-957E-49F4-A9F5-59A160DBD7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B57B5E-957E-49F4-A9F5-59A160DBD7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B57B5E-957E-49F4-A9F5-59A160DBD7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
